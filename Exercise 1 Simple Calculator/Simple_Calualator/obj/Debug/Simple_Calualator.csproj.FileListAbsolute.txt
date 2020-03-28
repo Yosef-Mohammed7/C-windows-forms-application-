@@ -1,0 +1,9 @@
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Simple_Calualator\Simple_Calualator\bin\Debug\Simple_Calualator.exe.config
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Simple_Calualator\Simple_Calualator\bin\Debug\Simple_Calualator.exe
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Simple_Calualator\Simple_Calualator\bin\Debug\Simple_Calualator.pdb
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Simple_Calualator\Simple_Calualator\obj\Debug\Simple_Calualator.Form1.resources
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Simple_Calualator\Simple_Calualator\obj\Debug\Simple_Calualator.Properties.Resources.resources
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Simple_Calualator\Simple_Calualator\obj\Debug\Simple_Calualator.csproj.GenerateResource.cache
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Simple_Calualator\Simple_Calualator\obj\Debug\Simple_Calualator.exe
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Simple_Calualator\Simple_Calualator\obj\Debug\Simple_Calualator.pdb
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Simple_Calualator\Simple_Calualator\obj\Debug\Simple_Calualator.csprojAssemblyReference.cache

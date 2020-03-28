@@ -1,0 +1,9 @@
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Exercise2_AddingRemoving\Exercise2_AddingRemoving\bin\Debug\Exercise2_AddingRemoving.exe.config
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Exercise2_AddingRemoving\Exercise2_AddingRemoving\bin\Debug\Exercise2_AddingRemoving.exe
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Exercise2_AddingRemoving\Exercise2_AddingRemoving\bin\Debug\Exercise2_AddingRemoving.pdb
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Exercise2_AddingRemoving\Exercise2_AddingRemoving\obj\Debug\Exercise2_AddingRemoving.csprojAssemblyReference.cache
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Exercise2_AddingRemoving\Exercise2_AddingRemoving\obj\Debug\Exercise2_AddingRemoving.Form1.resources
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Exercise2_AddingRemoving\Exercise2_AddingRemoving\obj\Debug\Exercise2_AddingRemoving.Properties.Resources.resources
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Exercise2_AddingRemoving\Exercise2_AddingRemoving\obj\Debug\Exercise2_AddingRemoving.csproj.GenerateResource.cache
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Exercise2_AddingRemoving\Exercise2_AddingRemoving\obj\Debug\Exercise2_AddingRemoving.exe
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\Exercise2_AddingRemoving\Exercise2_AddingRemoving\obj\Debug\Exercise2_AddingRemoving.pdb

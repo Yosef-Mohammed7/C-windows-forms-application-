@@ -1,0 +1,8 @@
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MOE-K-126\My_College\level6\SWE344\LAB\C#_form_5_exersies\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
